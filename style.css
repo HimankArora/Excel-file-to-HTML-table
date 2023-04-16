@@ -1,0 +1,27 @@
+body{
+    background: rgb(71, 134, 111);
+    background: linear-gradient(0deg, rgba(71, 134, 111, 1) 44%, rgba(186, 180, 128, 1) 74%);
+    height: 94vh;
+}
+table {
+    border-collapse: collapse;
+}
+#excel-data{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+td,
+th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
